@@ -8,4 +8,4 @@ Very simple application based on MVC pattern and custom memory control that allo
 - view/delete registered users;
 - view info about memory used.
 
-To authorize create new user first.
+To authorize inside the app create new user first.
